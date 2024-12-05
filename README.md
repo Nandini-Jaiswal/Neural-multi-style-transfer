@@ -7,7 +7,9 @@ The colab file for this can be accessed [here](https://colab.research.google.com
 Style transfer (for multiple images) is the synthesis of images, creating an output that has the content of one image and the styles of  other images.
 
 <img src="assets/1-1.png" alt="drawing" width="230"/> <img src="assets/1-2.png" alt="drawing" width="230"/> <img src="assets/1-3.png" alt="drawing" width="230"/>
+
 <img src="assets/2-1.png" alt="drawing" width="230"/> <img src="assets/2-2.png" alt="drawing" width="230"/> <img src="assets/2-3.png" alt="drawing" width="230"/>
+
 <img src="assets/3-1.png" alt="drawing" width="230"/> <img src="assets/3-2.png" alt="drawing" width="230"/> <img src="assets/3-3.png" alt="drawing" width="230"/>
 
 ## How it Works
